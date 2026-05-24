@@ -1,0 +1,10 @@
+Updated +5V from #PWR to #PWR01.
+Updated +9V from #PWR to #PWR02.
+Updated -9V from #PWR to #PWR03.
+Updated AGND from #PWR to #PWR04.
+Updated AGND from #PWR to #PWR05.
+Updated +3V3 from #PWR to #PWR06.
+Updated GND from #PWR to #PWR07.
+Updated GND from #PWR to #PWR08.
+Updated +3V3 from #PWR to #PWR09.
+Annotation complete.
